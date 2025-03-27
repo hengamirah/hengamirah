@@ -33,12 +33,12 @@ Hi! I'm Amirah Heng, a  Master student in Computer Science (Applied Computing) a
 - Developed custom computer vision solutions for image classification and segmentation
 
 ### Generative AI
-- Created generative models for synthetic data generation
-- Experimented with various GAN architectures for content creation
+- Created Agentic AI chatbot with SQL Agent, utlising Vanna AI for multiple schema and table query.
 
 ### Predictive Analytics
 - Built price prediction systems using AutoML techniques
 - Developed time series forecasting models for business intelligence applications
+- Create Full MLOPS Pipeline with Feature Store, MLFlow, and Grafana Visualisation for Model Metrics in AWS Redshift
 
 ## 🌱 Currently Learning
 - Advanced deep learning techniques
