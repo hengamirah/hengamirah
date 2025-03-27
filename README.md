@@ -2,8 +2,6 @@
 
 ## About Me
 Hi! I'm Amirah Heng, a  Master student in Computer Science (Applied Computing) and currently in the Framework-Based Software Design and Development course. 
-I expect to learn a lot about Software Development for AI Application.
-
 ## 🚀 Technologies & Tools
 
 ### Languages
